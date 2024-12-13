@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+*{
+    font-family: "Outfit", sans-serif;
+}
+body {
+    background-color:  rgb(13, 25, 43);
+}
+.box {
+    height: 610px;
+    width: 350px;
+    background-color: rgb(20, 37, 61);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 65px;
+    border-radius: 15px;
+}
+
+.cube {
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+h2 {
+    color: white;
+    margin: 25px;
+    font-weight: 500;
+}
+.text {
+    color: rgb(139, 172, 218);
+    margin-left: 25px;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 27px;
+}
+.cyan {
+    margin-left: 25px;
+}
+.blue {
+    padding-top: 20px;
+    color: cyan;
+    float: left;
+    font-size: 18px;
+}
+.days {
+    margin-right: 25px;
+    float: right;
+    padding-top: 20px;
+    color: rgb(139, 172, 218);
+    font-size: 18px;
+}
+hr { margin-top: 65px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-color: rgba(85, 97, 114, 0.536);
+    border-style: solid;
+}
+.avatar {
+    margin-left: 25px;
+    border: 2px;
+    border-color: white;
+    border-style: inset;
+    border-radius: 25px;
+}
+.jules {
+    padding-top: 10px;
+    color: rgb(139, 172, 218);
+    font-size: 18px;
+}
